@@ -18,6 +18,7 @@ public class ErrorResponse {
 		this.code = code;
 		this.params = params;
 	}
+	
 	public String getDescription() {
 		return description;
 	}
